@@ -1,0 +1,5 @@
+name: VoidGenerator
+version: '${project.version}'
+main: lee.code.voidgen.Void
+api-version: 1.19
+load: STARTUP
