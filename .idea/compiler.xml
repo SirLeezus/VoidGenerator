@@ -9,5 +9,8 @@
         <module name="VoidGenerator" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="void-generator" target="17" />
+    </bytecodeTargetLevel>
   </component>
 </project>
